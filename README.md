@@ -1,7 +1,9 @@
-# Eight Years in the Making: The Network Effect of Twitter #NGSSchat
+# Influence in Network Analysis
 
 Paper in response to call for proposals for special issue of *Journal of Learning Analytics*:
 https://epress.lib.uts.edu.au/journals/index.php/JLA/announcement/view/167
+
+--- Old content 
 
 ## Background
 
